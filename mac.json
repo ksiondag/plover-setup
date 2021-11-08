@@ -1,0 +1,19 @@
+{
+"KHR*FT": "",
+"KHR-FT": "",
+"KPH-PBD": "",
+"KPR": "",
+"KPR*": "",
+"KR*PBLS": "",
+"P*T": "",
+"SKR*": "",
+"SKR*PBS": "",
+"SKR-PBS": "",
+"STPH*L": "{#command (control (left))}",
+"STPH*R": "{#command (control (right))}",
+"T-RPL": "{#control (shift ( quoteleft))}",
+"TKR*RB": "",
+"TP*PBD": "",
+"TPH*T": "",
+"TPH*UT": "{#super(t)}"
+}
