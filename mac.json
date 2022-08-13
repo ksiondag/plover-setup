@@ -1,0 +1,21 @@
+{
+"KHR*FT": "{#super (w)}",
+"KHR-FT": "{#super (w)}",
+"KPH-PBD": "{#super (space)}",
+"KPR": "{#super (c)}",
+"KPR*": "{#super (c)}",
+"KR*PBLS": "{#super (alt (i))}",
+"P*T": "{#control (shift (tab))}",
+"S*F": "{#super (s)}",
+"SKR*": "{#super (v)}",
+"SKR*PBS": "{#command (shift (s))}",
+"SKR-PBS": "{#command (shift (s))}",
+"STPH*L": "{#command (control (left))}",
+"STPH*P": "{#control (up)}",
+"STPH*R": "{#command (control (right))}",
+"T-RPL": "{#control (shift ( quoteleft))}",
+"TKR*RB": "{#super (l)}",
+"TP*PBD": "{#super (f)}",
+"TPH*T": "{#super (tab)}",
+"TPH*UT": "{#super(t)}"
+}
